@@ -1,1 +1,1 @@
-# Pallindrome-Finder
+# Pallindrome-Finder-py
